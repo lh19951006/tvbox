@@ -1,0 +1,29 @@
+{
+  "spider": "https://fs.144233.xyz/d/16352431-48245785-5b4872/custom_spider.jar",
+  "wallpaper": "https://picsum.photos/1920/1080",
+  "sites": [
+    {
+      "key": "csp_Nianshao",
+      "name": "🤖 演示|通过",
+      "type": 3,
+      "api": "csp_Nianshao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_XBPQ_演示",
+      "name": "🎬 演示|资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.haiwaikan.com",
+        "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "副标题": "class=\"pic-text text-right\"&&</span>"
+      }
+    }
+  ]
+}
